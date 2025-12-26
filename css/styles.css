@@ -61,6 +61,8 @@
 .navigation--mobile {
   position: fixed;
   display: block;
+  width: 100%;
+  left: 0;
 }
 /* top part of mobile navigation menu */
 .top {
